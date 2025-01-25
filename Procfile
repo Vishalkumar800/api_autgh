@@ -1,0 +1,1 @@
+build/libs/full-auth-project-all.jar
